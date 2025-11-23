@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="BANNER_RAW_URL_HERE" alt="Grey Lantern Banner" width="100%">
+  <img src="./GreyLantern_banner.png" alt="Grey Lantern Banner" width="100%">
 </p>
 
 # 🌌 Grey Lantern Lab
