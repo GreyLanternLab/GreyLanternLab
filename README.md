@@ -1,16 +1,63 @@
-## Hi there 👋
+<!-- Banner -->
+<p align="center">
+  <img src="BANNER_RAW_URL_HERE" alt="Grey Lantern Banner" width="100%">
+</p>
 
-<!--
-**GreyLanternLab/GreyLanternLab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 🌌 Grey Lantern Lab
 
-Here are some ideas to get you started:
+**Open-source intelligence | Digital investigations**  
+Building a publicly accessible portfolio exploring tools, workflows, case projects and investigative reflections.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🕯️ About Grey Lantern
+Grey Lantern is an alias identity focused on structured OSINT learning, ethical investigation and quiet, methodical discovery.  
+This lab collects the results of my study route, practical exercises, case projects and personal tooling.
+
+I explore topics such as:
+
+- OSINT fundamentals  
+- Website & domain investigations  
+- Digital footprinting  
+- Human analysis & pattern recognition  
+- Disinformation mapping  
+- AML-adjacent intelligence  
+- Story-driven reporting  
+- OSINT network analysis  
+- Trend analysis & narrative analysis
+
+---
+
+### 📂 Repositories
+
+#### 🔹 **greys-notes**
+Short analyses, reasoning structures, insights, frameworks and thought experiments.
+
+#### 🔹 **greys-workflows**
+OSINT workflows and repeatable investigation patterns.
+
+#### 🔹 **greys-tools**
+Small tools, scripts, snippets and practical utilities.
+
+#### 🔹 **greys-caseprojects**
+Case project #1 – *The Digital Shadow*: website & domain investigations, footprints, patterns and reflections.
+
+#### 🔹 **greys-library**
+Reading notes, summaries and reference material.
+
+---
+
+### 🧭 Purpose
+To document a multi-year OSINT learning journey, build skill through practice, and maintain a clean, transparent and useful record of progress — openly, but under an alias.
+
+---
+
+### 🛰️ Connect
+You can find **GreyLanternLab** on:
+
+- **Discord** (community presence)  
+- **Mastodon** (to be added)
+
+---
+
+### 🕯️ *Light in the dark; structure in the noise.*
