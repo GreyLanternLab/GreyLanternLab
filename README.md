@@ -60,4 +60,12 @@ You can find **GreyLanternLab** on:
 
 ---
 
+### 📂 Repositories  
+- [greys-notes](https://github.com/GreyLanternLab/greys-notes)  
+- [greys-workflows](https://github.com/GreyLanternLab/greys-workflows)  
+- [greys-tools](https://github.com/GreyLanternLab/greys-tools)  
+- [greys-caseprojects](https://github.com/GreyLanternLab/greys-caseprojects)  
+- [greys-library](https://github.com/GreyLanternLab/greys-library)  
+
+
 ### 🕯️ *Light in the dark; structure in the noise.*
