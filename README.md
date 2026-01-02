@@ -21,7 +21,8 @@ I explore topics such as:
 - Digital footprinting  
 - Human analysis & pattern recognition  
 - Disinformation mapping  
-- AML-adjacent intelligence  
+- AML-adjacent intelligence
+- Human Trafficking-adjacent intelligence 
 - Story-driven reporting  
 - OSINT network analysis  
 - Trend analysis & narrative analysis
