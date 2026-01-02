@@ -41,7 +41,7 @@ OSINT workflows and repeatable investigation patterns.
 Small tools, scripts, snippets and practical utilities.
 
 #### 🔹 **greys-caseprojects**
-Case project #1 – *The Digital Shadow*: website & domain investigations, footprints, patterns and reflections.
+Fictitious and real-world OSINT-cases
 
 #### 🔹 **greys-library**
 Reading notes, summaries and reference material.
