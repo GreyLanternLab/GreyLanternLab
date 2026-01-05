@@ -46,6 +46,11 @@ Fictitious and real-world OSINT-cases
 #### 🔹 **greys-library**
 Reading notes, summaries and reference material.
 
+#### 🔹 **greys-ctfs**
+Capture-the-flag exercises and OSINT-relevant challenges
+
+
+
 ---
 
 ### 🧭 Purpose
@@ -66,7 +71,8 @@ You can find **GreyLanternLab** on:
 - [greys-workflows](https://github.com/GreyLanternLab/greys-workflows)  
 - [greys-tools](https://github.com/GreyLanternLab/greys-tools)  
 - [greys-caseprojects](https://github.com/GreyLanternLab/greys-caseprojects)  
-- [greys-library](https://github.com/GreyLanternLab/greys-library)  
+- [greys-library](https://github.com/GreyLanternLab/greys-library)
+- [greys-ctfs](https://github.com/GreyLanternLab/greys-ctfs)
 
 
 ### 🕯️ *Light in the dark; structure in the noise.*
